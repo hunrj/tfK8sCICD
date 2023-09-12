@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
         - name: nodeappcontainer
-          image: us.gcr.io/kubernetes-project-398402/nodeapp:v1
+          image: us.gcr.io/k8sproj-398802/nodeapp:v1
           ports:
             - containerPort: 80
